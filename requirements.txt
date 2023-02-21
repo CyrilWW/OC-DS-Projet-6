@@ -1,0 +1,7 @@
+gensim
+tensorflow_hub
+tensorflow_text
+transformers
+opencv-contrib-python
+opencv-python
+datasets

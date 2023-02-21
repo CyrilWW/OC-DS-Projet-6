@@ -1,0 +1,12 @@
+notebooks/*.csv
+notebooks/*.xls*
+notebooks/*.pkl
+data/raw/images/*
+data/raw/tests/*
+data/raw/*.csv
+data/processed/*.pkl
+data/processed/*.csv
+data/input/*
+data/output/*
+work/*
+OLD/*
